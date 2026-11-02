@@ -1,6 +1,6 @@
 # Rust Sensei
 
-An iPhone app that teaches Rust, then quizzes you on it.
+Vibe-coded iPhone app that teaches Rust, then quizzes you on it.
 
 Thirty-six short lessons cover the core of the language: types and functions, ownership, borrowing, `Option` and `Result`, structs and enums, collections, traits, errors, lifetimes, iterators, closures, and modules. Each lesson ends in three questions. A miss stays missed until you get it right. Review drills those. Quiz me re-asks questions you already got right, oldest first.
 
