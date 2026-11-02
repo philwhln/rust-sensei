@@ -10,10 +10,7 @@ The course stops before async, macros, and unsafe. The Rust book is linked from 
 
 ## Screenshots
 
-<img src="docs/screenshots/home.jpg" alt="Course home, with progress and the lesson list" width="200">
-<img src="docs/screenshots/lesson-vec.jpg" alt="The Vec lesson, with code samples" width="200">
-<img src="docs/screenshots/lesson-closures.jpg" alt="The closures lesson" width="200">
-<img src="docs/screenshots/lesson-modules.jpg" alt="The modules lesson" width="200">
+<p align="center"><img src="docs/screenshots/home.jpg" alt="Course home, with progress and the lesson list" width="24%"> <img src="docs/screenshots/lesson-vec.jpg" alt="The Vec lesson, with code samples" width="24%"> <img src="docs/screenshots/lesson-closures.jpg" alt="The closures lesson" width="24%"> <img src="docs/screenshots/lesson-modules.jpg" alt="The modules lesson" width="24%"></p>
 
 ## Build and install
 
