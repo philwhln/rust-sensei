@@ -8,6 +8,13 @@ Nothing leaves the phone. Progress is on the device.
 
 The course stops before async, macros, and unsafe. The Rust book is linked from Settings for what comes next.
 
+## Screenshots
+
+<img src="docs/screenshots/home.jpg" alt="Course home, with progress and the lesson list" width="200">
+<img src="docs/screenshots/lesson-vec.jpg" alt="The Vec lesson, with code samples" width="200">
+<img src="docs/screenshots/lesson-closures.jpg" alt="The closures lesson" width="200">
+<img src="docs/screenshots/lesson-modules.jpg" alt="The modules lesson" width="200">
+
 ## Build and install
 
 Signing and the phone you install on stay in `.env` on your machine.
