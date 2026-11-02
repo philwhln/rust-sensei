@@ -56,3 +56,7 @@ The icon is drawn by `make_icon.swift`:
 ```bash
 swift make_icon.swift RustSensei/Assets.xcassets/AppIcon.appiconset/AppIcon.png
 ```
+
+## License
+
+[MIT](LICENSE)
