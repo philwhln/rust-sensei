@@ -1,0 +1,7 @@
+// Public defaults. A local checkout overrides these from Config/Local.xcconfig,
+// which is gitignored. Copy Config/Local.xcconfig.example, or run
+// ./scripts/sync-config.sh after filling in .env.
+
+PRODUCT_BUNDLE_IDENTIFIER = com.example.rust-sensei
+
+#include? "Local.xcconfig"

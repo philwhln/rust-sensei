@@ -1,0 +1,5 @@
+// Copy to Config/Local.xcconfig (gitignored), or generate it with
+// ./scripts/sync-config.sh from .env.
+
+DEVELOPMENT_TEAM = YOURTEAMID
+PRODUCT_BUNDLE_IDENTIFIER = com.example.rust-sensei
